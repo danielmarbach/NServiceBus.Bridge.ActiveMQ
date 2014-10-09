@@ -1,0 +1,2 @@
+NServiceBus.Bridge.ActiveMQ
+===========================
